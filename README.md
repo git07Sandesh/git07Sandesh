@@ -1,25 +1,10 @@
-## Hi there 👋
 
-<!--
-**git07Sandesh/git07Sandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hey, I am Sandesh Bhattarai!
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=3FB3F7&background=5F2DFF00&width=435&lines=Hey!+I+am+Sandesh+Bhattarai!)](https://git.io/typing-svg)
 
 ### Full Stack Developer | Honors Scholar | Tech Enthusiast
 
 - 🌱 I’m learning MERN Stack and .NET MUAI
-- 🤝 I’m open to collaborations in Software Devlopment
+- 🤝 I’m open to collaborations in Software Development
 - 📫 Reach me at: sandesh1122bhattarai@gmail.com
 
   ## 🌍 Connect with me:
