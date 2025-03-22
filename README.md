@@ -1,5 +1,8 @@
-
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=3FB3F7&background=5F2DFF00&width=435&lines=Hey!+I+am+Sandesh+Bhattarai!)](https://git.io/typing-svg)
+<div align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=3FB3F7&background=5F2DFF00&width=435&lines=Hey!+I+am+Sandesh+Bhattarai!" alt="Typing SVG" />
+  </a>
+</div>
 
 ### Full Stack Developer | Honors Scholar | Tech Enthusiast
 
