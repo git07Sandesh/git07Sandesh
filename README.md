@@ -8,8 +8,7 @@
 
 ### Full Stack Developer | Honors Scholar | Tech Enthusiast
 
-- 🌱 I’m learning MERN Stack and .NET MUAI
-- 🤝 I’m open to collaborations in Software Development
+- 🤝 I’m open to collaborations in Software Development and Machine Learning
 - 📫 Reach me at: sandesh1122bhattarai@gmail.com
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
