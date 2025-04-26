@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### Full Stack Developer | Honors Scholar | Tech Enthusiast
+### Full Stack Developer | Honors Scholar | Tech Enthusiast 
 
 - 🤝 I’m open to collaborations in Software Development and Machine Learning
 - 📫 Reach me at: sandesh1122bhattarai@gmail.com
@@ -86,7 +86,15 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+### 📚 Javascript Libraries & Frameworks
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
+![Anime.js](https://img.shields.io/badge/-Anime.js-FF61F6?style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF0093?style=flat-square&logo=framer)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 📊 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=git07Sandesh&show_icons=true&theme=radical)
